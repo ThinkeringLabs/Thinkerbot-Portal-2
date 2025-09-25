@@ -1,0 +1,9 @@
+diff --git a/requirements.txt b/requirements.txt
+index 6703613fef2f9e655d99756b04e9940c53fdf048..c9b60046e2abd8fb701388afba0cdb85a17d172c 100644
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -1,4 +1,3 @@
+ fastapi
+ uvicorn
+ pydantic
+-openai
